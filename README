@@ -1,0 +1,6 @@
+snav - Simple source navigation script
+
+
+snav - simple source navigation tool
+	Usage: snav <command> [arg]
+		command - build, find, grep, vi, ctags, cscope, diff, p4, git
